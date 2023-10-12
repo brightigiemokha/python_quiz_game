@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pythonquizgame",
+  "private_key_id": "a14e5a6317e5c104553f63e3358e8ff28b52dd02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ1GqGTBIJP5Zn\n2a2E9zAnr3gDmDUtVnC4e8hwciD94QsOvkh4Xc3StLjH1wEIDShloXPmyn1I3U3u\nBLRa9OyCylqaTkobpssntyEH42HqqGZLuPRh5IShV8vDTyllWUi6z7XjwglSUSyf\nxv3dE2gsGp0GJfeEiU3/HcUGgtdZ7oRzn4Ga8T1zFfZuhsjtmbivFb6I8WdRGM7R\nLVqQl71Lyjq0NkWvd2RZIG+c3jU1XWRh1XKfBKJOlUhq4aGAksj583aGrIaYpUTD\n0/6jGUqwGt4+ru3kTwXkAzbBhi5Utv8ouR3+WlUUeHeYE4s7JofQ1yzphQ/vMa3Z\nYu5LtszvAgMBAAECggEAFepp3XFZ2AU+mMJAnu/pxmATARjq//mjPcpl0R1OIHiU\n/HcvDrA+OZiuzoxggUukd6dYxYEhVOMq+M3Wo7XKuh0CSj/MDkVF9BG6QCKxruBg\nU0KfJBjDSh3AHid0uvDp/oGwIi4fWFVA1OIFDkIdjVnKc9t1jWpiEhyybermkCOD\n2EDNIUktwdqC0O2AOKr5RlKOLF5mib+BLMETKz8YB7kMQg34Jva26AGQ5TDV7kHg\noz0bLhpeyzTQxP3bXdiPCQS82aqBAl5eYRlMKLmtMZ3uuBMD6phnU3jgToZG1hQW\nddzGHlOgamW5+lUDC4IVgU7YrG0Cqmjt+PJ9+F1leQKBgQDj6+UehUAJkYHyQO0D\n6xf9MBuuuGdC1T7MddeCZJtSmA1pb/6CFbbwNOSs1Scc9yxIhCAzQ017anTyYVaG\nzofu653TrKCz1bYS+b9IWO39lqEa5S7Xvctg0Uzb2yJrUPqoOBFyF0uhnszJ5VWI\nNz3+Qtgk2feWw4GjP/eeSzitgwKBgQDisaZobf8JNA5Tjligx0BSj/l01MaeEbQ6\nTGKkTGBzCuYUb/1PwY4q00/WcUS00hL6j/ROXRxQN0ye1Kz3bZZckkURq/y88Su5\nHf6y7m4w4rs1/0aybwaFAElc8rIWVzJ4LnL7ncznEaKNPGbJSG7yNjIvxAsgMV/C\nM23q5bcTJQKBgQCq1m9HgDNuuJ1BWv8NF9NEWSH2xYvI4ZQPpyihOQ3fS8+Jv4Ny\nOBqGU+8vyRlnMbIErNyB8CmMn1AHOYSkyPvEzuDe/575DPBLqt2Auf+xO42IXk7N\nMRrXeCp3BPr4m5s2KciRzvpGq4PutTJ2Ron2Il5myOY3IFX0aocNJG7YRwKBgQCb\nxEX769kakdJmR6FOmJryIEvgo3P2mWOly2bcTj7Xzd1anbkJXI47jweE6j+zn8W6\ntb/BOOmDlPvpB2nyejKfWUJsaik4Ct9oS9v/RyYgIStSZx5E7VUlfpTqcTk9cJ0V\nR5Vqn3t0KwHu2lomZMcXV3YUrDiY3lRWNNCKX130oQKBgDRLrucrXEYGodPP+lSO\nUhTV3o6kOKrIL/RELYcGZCkS10sORVnsoi2SkR4pslv3gOHc2fJEQXTcWjguhpu4\n4pIVM7pQGYZQC1ej75vE+QXVf7a7odqvvvUNGL13aMGgmUya3Pngu+Nzt1E2JTw9\n4O7DbEB0ZgkICMvHclZ6zID2\n-----END PRIVATE KEY-----\n",
+  "client_email": "brany-288@pythonquizgame.iam.gserviceaccount.com",
+  "client_id": "101724716314676223590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brany-288%40pythonquizgame.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
