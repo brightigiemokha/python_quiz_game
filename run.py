@@ -16,13 +16,28 @@ print("Welcome to my Python Quiz!")
 
 playing = input("Would you live to Play? ")
 
-if playing != "yes":
+if playing.lower() != "yes":
     quit()
 
 print("Great Choice! Lets Play :)")
 
-answer = input("What does CPU stand for? ")
-if answer is == "central processing  unit":
+answer = input("What does CPU stand for? ").lower()
+if answer == "central processing  unit":
     print('Correct!')
 else:
     print("Incorrect answer")
+    print("Try again")
+
+answer = input("What does CPU stand for? ").lower()
+if answer == "central processing  unit":
+    print('Correct!')
+else:
+    print("Incorrect answer")
+    print("Try again")
+
+answer = input("What does CPU stand for? ").lower()
+if answer == "central processing  unit":
+    print('Correct!')
+else:
+    print("Incorrect answer")
+    print("Try again")
