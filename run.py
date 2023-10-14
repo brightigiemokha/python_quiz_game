@@ -15,6 +15,7 @@ SHEET = GSPREAD_CLIENT.open('python_quiz_game')
 print("Welcome to my Python Quiz!")
 
 playing = input("Would you live to Play? ")
+score = 0
 
 if playing.lower() != "yes":
     quit()
@@ -24,6 +25,7 @@ print("Great Choice! Lets Play :)")
 answer = input("What does CPU stand for? ").lower()
 if answer == "central processing  unit":
     print('Correct!')
+    score = score + 1
 else:
     print("Incorrect answer")
     print("Try again")
@@ -31,6 +33,7 @@ else:
 answer = input("What does CPU stand for? ").lower()
 if answer == "central processing  unit":
     print('Correct!')
+    score += 1
 else:
     print("Incorrect answer")
     print("Try again")
@@ -38,6 +41,9 @@ else:
 answer = input("What does CPU stand for? ").lower()
 if answer == "central processing  unit":
     print('Correct!')
+    score = score + 1
 else:
     print("Incorrect answer")
     print("Try again")
+
+print ("You got " + str(score) + " questions correctly!")
