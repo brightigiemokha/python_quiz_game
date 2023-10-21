@@ -87,6 +87,87 @@ if answer.lower() == "B":
     score = score + 1
 else:
     print("Incorrect answer, the answer is B")
+
+#Question 6
+print("-------------------------")
+print('Who developed Python Programming Language?')
+print("-------------------------")
+print("A- Wick van Rossum")
+print("B-  Rasmus Lerdorf")
+print("C- Guido van Rossum")
+print("D- Niene Stom")
+answer = input(" Answer : ")
+
+if answer.lower() == "C":
+    print('Correct!, Well Done')
+    score = score + 1
+else:
+    print("Incorrect answer, the answer is C")
+
+#Question 7
+print("-------------------------")
+print('Which type of Programming does Python support?')
+print("-------------------------")
+print("A- object-oriented programming")
+print("B- structured programming")
+print("C- functional programming")
+print("D- all of the mentioned")
+answer = input(" Answer : ")
+
+if answer.lower() == "D":
+    print('Correct!, Well Done')
+    score = score + 1
+else:
+    print("Incorrect answer, the answer is D")
+
+#Question 8
+print("-------------------------")
+print('Is Python case sensitive when dealing with identifiers?')
+print("-------------------------")
+print("A- no")
+print("B- yes")
+print("C- machine dependent")
+print("D- none of the mentioned")
+answer = input(" Answer : ")
+
+if answer.lower() == "B":
+    print('Correct!, Well Done')
+    score = score + 1
+else:
+    print("Incorrect answer, the answer is B")
+
+#Question 9
+print("-------------------------")
+print('Which of the following is the correct extension of the Python file?')
+print("-------------------------")
+print("A- .python")
+print("B- .pl")
+print("C- .py")
+print("D- .P")
+answer = input(" Answer : ")
+
+if answer.lower() == "C":
+    print('Correct!, Well Done')
+    score = score + 1
+else:
+    print("Incorrect answer, the answer is C")
+
+#Question 10
+print("-------------------------")
+print('Is Python code compiled or interpreted?')
+print("-------------------------")
+print("A- Python code is both compiled and interpreted")
+print("B- Python code is neither compiled nor interpreted")
+print("C- Python code is only compiled")
+print("D- Python code is only interpreted")
+answer = input(" Answer : ")
+
+if answer.lower() == "A":
+    print('Correct!, Well Done')
+    score = score + 1
+else:
+    print("Incorrect answer, the answer is A")
+
 answer = input("What does CPU stand for? ").lower()
 if answer == "central processing  unit":
     print('Correct!')
